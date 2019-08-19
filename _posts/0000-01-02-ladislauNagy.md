@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Ln5 changed :metal:
 Use the left arrow to go back!
